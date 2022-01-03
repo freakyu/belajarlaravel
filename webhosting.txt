@@ -1,0 +1,8 @@
+nama website : Sunshine07
+password     : DEt3lNh#u%SF!qYAA$fo
+
+database name		:id17860066_sweetalert	
+database username	:id17860066_blog
+database host		:localhost
+
+database password	:Isqw[]G/|#&12@gS
